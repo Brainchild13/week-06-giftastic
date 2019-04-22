@@ -1,0 +1,49 @@
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+
+.jumbotron {
+  background-color: Black;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  align-content: center;
+}
+
+button {
+  background-color: black;
+  padding: 10px;
+  border-radius: 8px;
+  color: white;
+  display: inline-block;
+}
+button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+body {
+  background-color: darkgrey;
+  text-decoration: black;
+  font-weight: 900;
+  font-size: 20px;
+  padding: 20px;
+  align-content: center;
+}
+#add-food {
+  background-color: rgb(37, 75, 199);
+  padding: 10px;
+  border-radius: 8px;
+  color: white;
+  display: inline-block;
+}
+
+#add-food:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
