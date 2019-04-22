@@ -1,0 +1,17 @@
+
+
+
+Pseudo code for giftastic
+Create index.html
+Links jquery
+Link css style sheet
+Link javascript script
+Create div container
+Create h1 food search
+Add div for buttons – div buttons-view
+Add form – form id food-form
+Create div for buttons – div id buttons-view
+Create initial array of foods
+Create function displayfoodinfo
+Food var
+
